@@ -26,7 +26,7 @@ Topics I learned before and during project:
  - Working with NLTK package
  - Methods of different text representation and categorization.
 
-## [MAST](https://github.com/bulaimaslo/MAST)  -  March 2020
+## [MAST](https://github.com/bulaimaslo/MAST)  -  April 2020
 One of projects made for an Algorithms & Data Structures course during the 2nd semester of my studies.
 It's an implementation of a solution for the maximum agreement subtree problem(MAST).
 
