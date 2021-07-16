@@ -13,7 +13,7 @@ Topics I learned before and during project:
 
 ## [Tic-Tac-Toe](https://github.com/bulaimaslo/tictactoe)  -  June 2021
 After hard time with Python dependencies and ml libraries during previous project I decided to do some work with Java.
-I had to revise basics but managed to make Tic-tac-toe which allows you to play with bots of 3 difficulties:
+I had to revise basics but easily managed to make Tic-tac-toe console game which allows you to play with bots of 3 difficulties:
  - easy - makes random moves
  - medium - able to find winning move and to block opponent's winning move
  - hard - impossible to win against. With my implementation of the minimax algorithm.
