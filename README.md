@@ -1,21 +1,12 @@
 # Consolidated_work
 
-work in progress
+## [Recipes](https://github.com/bulaimaslo/Recipes)  -  July 2021
 
-// ## [] ()
-// ## [] ()
+## [Tic-Tac-Toe](https://github.com/bulaimaslo/tictactoe)  -  June 2021
 
-## [Recipes] (https://github.com/bulaimaslo/Recipes)
+## [NLP](https://github.com/bulaimaslo/NLP)  -  April/May 2021
 
-## [Tic-Tac-Toe] (https://github.com/bulaimaslo/tictactoe)
+## [MAST](https://github.com/bulaimaslo/MAST)  -  March 2020
+One of projects made for Algorithms & Data Structures course during the 2nd semester of my studies.
+It's an implmentation of solution for maximum agreement subtree problem(MAST).
 
-## [NLP] (https://github.com/bulaimaslo/NLP)
-The purpose of this project is to compare different methods of text representation in the task of text categorization.
-
-## [MAST]  -  March 2020
-### (https://github.com/bulaimaslo/MAST)
-Implmentation of solution for maximum agreement subtree problem(MAST) done for Algorithms & Data Structures course in the 2nd semester
-
-Due to the nature of the submission system the program is in one file.
-
-## [MAST](https://github.com/bulaimaslo/MAST)
