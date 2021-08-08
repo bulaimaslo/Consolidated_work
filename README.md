@@ -2,7 +2,7 @@
 
 
 ## [Blockchain implementation](https://github.com/bulaimaslo/Blockchain)  -  July 2021 - Currently
-A project which goal is to put my theoretical knowledge about blockchain technologies into practice. It's a simulation of blockchain similar to bitcoin which at the current stage implements:
+A project whose goal is to put my theoretical knowledge about blockchain technologies into practice. It's a simulation of blockchain similar to bitcoin which at the current stage implements:
  - achieving consensus throw Proof of Work mechanism
  - adjusting puzzle difficulty to maintain balanced time of block mining
  - multithread work of the miners
