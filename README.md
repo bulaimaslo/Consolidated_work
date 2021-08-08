@@ -1,11 +1,19 @@
 # Consolidated-work
 
 
-## [Blockchain implementation]()  -  Currently
+## [Blockchain implementation](https://github.com/bulaimaslo/Blockchain)  -  July 2021 - Currently
+A project which goal is to put my theoretical knowledge about blockchain technologies into practice. It's a simulation of blockchain similar to bitcoin which at the current stage implements:
+ - achieving consensus throw Proof of Work mechanism
+ - adjusting puzzle difficulty to maintain balanced time of block mining
+ - multithread work of the miners
+
+Topics I learned for and during the project:
+ - multithreading in Java
+ - digital signatures, cryptographic hash functions
 
 ## [Recipes](https://github.com/bulaimaslo/Recipes)  -  July 2021
-Since I study Data Engineering not computer science I knew I lack some web development knowledge. To catch up I decided to make a web service based on Spring Boot which ended up being a service for handling, storing, deleting, retrieving and updating recipes.  
-Topics I learned before and during project:
+Since I studied Data Engineering not computer science I knew I lack some web development knowledge. To catch up I decided to make a web service based on Spring Boot which ended up being a service for handling, storing, deleting, retrieving and updating recipes.  
+Topics I learned for and during the project:
  - Spring Boot
  - Gradle
  - REST API
@@ -21,7 +29,7 @@ I had to revise basics but easily managed to make Tic-tac-toe console game which
 ## [NLP](https://github.com/bulaimaslo/NLP)  -  April/May 2021
 The goal of this project was comparison of classic text representation methods (bag-of-words and n-grams) with vector representations of words obtained from deep models (word embeddings). Even though I failed to obtain satisfying results from machine learning models I was left with a good portion of knowledge from the nlp domain.  
 I abandoned this project since it was enjoyable for me to continue and this repo contains only part of the code I've written.
-Topics I learned before and during project:
+Topics I learned for and during project:
  - Data preprocessing - e.g. Tokenization, Lemmanization, Stemming
  - Working with NLTK package
  - Methods of different text representation and categorization.
