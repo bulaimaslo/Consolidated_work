@@ -1,5 +1,8 @@
 # Consolidated-work
 
+## [Maze](https://github.com/bulaimaslo/Maze)  -  July/September 2021
+A program that allows you to generate a maze of an arbitrary size, solve it, save it to file and retrieve it.
+Usage of Kruskal's algorithm for creation and DFS for solving.
 
 ## [Blockchain implementation](https://github.com/bulaimaslo/Blockchain)  -  July 2021 - Currently
 A project whose goal is to put my theoretical knowledge about blockchain technologies into practice. It's a simulation of blockchain similar to bitcoin which at the current stage implements:
