@@ -1,11 +1,30 @@
 # Consolidated-work
 
-## [Maze](https://github.com/bulaimaslo/Maze)  -  July/September 2021
+## [Write-me-an-email](https://github.com/bulaimaslo/create-me-an-email)  -  December 2022 - Currently
+Utilizing OpenAI chat GPT to assist me in hard work of writing emails. 
+
+## [Crypto Arbitrage Bot](https://github.com/bulaimaslo/crypto-arb)  -  November 2022
+This project is a bot which is be able to find differences between prices of cryptocurrencies on different exchanges and execute trades on them. Using triangular arbitrage strategy to maximize gains. (spoiler alert: not profitable)
+
+
+## [Online Tutoring](https://github.com/bulaimaslo/ChemApp)  -  August 2022
+Web app to organize video tutorials for high school students. It’s a place for a teacher to
+submit their recordings lessons and solutions so students can view them in structured way instead of sharing
+links/creating playlists.
+
+## [Web3 Gifs](https://github.com/bulaimaslo/web3gifs)  -  February 2022
+App which allows users to submit gifs to the board, have them saved on the Solana blockchain and retrieve all the GIFs that have been submitted. 
+
+## [Chess bot](https://github.com/bulaimaslo/lichess-bot)  -  December 2021
+A chess bot compliant with Lichess API so it can compete with other Bots. Designed to beat
+most common bots implementation based on minimax algorithm.
+
+## [Maze](https://github.com/bulaimaslo/Maze)  -  September 2021
 A program that allows you to generate a maze of an arbitrary size, solve it, save it to file and retrieve it.
 Usage of Kruskal's algorithm for creation and DFS for solving.
 
-## [Blockchain implementation](https://github.com/bulaimaslo/Blockchain)  -  July 2021 - Currently
-A project whose goal is to put my theoretical knowledge about blockchain technologies into practice. It's a simulation of blockchain similar to bitcoin which at the current stage implements:
+## [Blockchain implementation](https://github.com/bulaimaslo/Blockchain)  -  July 2021 
+A project which goal is to put my theoretical knowledge about blockchain technologies into practice. It's a simulation of blockchain similar to bitcoin which at the current stage implements:
  - achieving consensus throw Proof of Work mechanism
  - adjusting puzzle difficulty to maintain balanced time of block mining
  - multithread work of the miners
