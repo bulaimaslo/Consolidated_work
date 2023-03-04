@@ -1,6 +1,13 @@
 # Consolidated-work
 
-## [Write-me-an-email](https://github.com/bulaimaslo/create-me-an-email)  -  December 2022 - Currently
+## Rust - February 2023 - Currently
+I've picked up Rust programming language because why not
+- [rustlings](https://github.com/bulaimaslo/rustlings)
+- [game-of-life](https://github.com/bulaimaslo/game-of-life)
+- [rusty-merkle-tree](https://github.com/bulaimaslo/rusty-merkle-tree)
+ 
+
+## [Write-me-an-email](https://github.com/bulaimaslo/create-me-an-email)  -  December 2022 
 Utilizing OpenAI chat GPT to assist me in hard work of writing emails. 
 
 ## [Crypto Arbitrage Bot](https://github.com/bulaimaslo/crypto-arb)  -  November 2022
