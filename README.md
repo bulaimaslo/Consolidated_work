@@ -5,7 +5,7 @@ I've picked up Rust programming language because why not
 - [rustlings](https://github.com/bulaimaslo/rustlings)
 - [game-of-life](https://github.com/bulaimaslo/game-of-life)
 - [rusty-merkle-tree](https://github.com/bulaimaslo/rusty-merkle-tree)
-- verkle-tree - [O1 Labs Technical Challenge](https://github.com/o1-labs/verkle-tree)
+- verkle-tree - [O1 Labs Technical Challenge](https://github.com/o1-labs/verkle-tree) - Since the solution is supposed to be kept private you can check out [my notes](https://adamneu.notion.site/Verkle-tree-notes-56fe94291f984f1f8239a8ce21583ee0)
  
 
 ## [Write-me-an-email](https://github.com/bulaimaslo/create-me-an-email)  -  December 2022 
