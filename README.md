@@ -1,18 +1,19 @@
 # Consolidated-work
 
-## Rust - February 2023 - Currently
+## [Personal website](https://github.com/bulaimaslo/bulaimaslo.github.io) - March 2023 
+
+## Rust - February 2023 
 I've picked up Rust programming language because why not
 - [rustlings](https://github.com/bulaimaslo/rustlings)
 - [game-of-life](https://github.com/bulaimaslo/game-of-life)
 - [rusty-merkle-tree](https://github.com/bulaimaslo/rusty-merkle-tree)
-- verkle-tree - [O1 Labs Technical Challenge](https://github.com/o1-labs/verkle-tree) - Since the solution is supposed to be kept private you can check out [my notes](https://adamneu.notion.site/Verkle-tree-notes-56fe94291f984f1f8239a8ce21583ee0)
  
 
 ## [Write-me-an-email](https://github.com/bulaimaslo/create-me-an-email)  -  December 2022 
 Utilizing OpenAI chat GPT to assist me in hard work of writing emails. 
 
 ## [Crypto Arbitrage Bot](https://github.com/bulaimaslo/crypto-arb)  -  November 2022
-This project is a bot which is be able to find differences between prices of cryptocurrencies on different exchanges and execute trades on them. Using triangular arbitrage strategy to maximize gains. (spoiler alert: not profitable)
+This project is a bot which is be able to find differences between prices of cryptocurrencies on different exchanges and execute trades on them. Using triangular arbitrage strategy to maximize gains. 
 
 
 ## [Online Tutoring](https://github.com/bulaimaslo/ChemApp)  -  August 2022
