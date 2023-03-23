@@ -1,5 +1,8 @@
 # Consolidated-work
 
+## [ZK-auction](https://github.com/bulaimaslo/zk-auction)  -  March 2023 - Currently
+ZK-proof driven sealed-bid second-price auction
+
 ## [Personal website](https://github.com/bulaimaslo/bulaimaslo.github.io) - March 2023 
 
 ## Rust - February 2023 
