@@ -1,12 +1,13 @@
 # Consolidated-work
 
-## [ZK-auction](https://github.com/bulaimaslo/zk-auction)  -  March 2023 - Currently
-ZK-proof driven sealed-bid second-price auction
+
+## [Messaging app](https://github.com/bulaimaslo/messaging-app)  -  March 2023 - Currently
+Putting into practice my theoretical knowledge of backend engineering. 
 
 ## [Personal website](https://github.com/bulaimaslo/bulaimaslo.github.io) - March 2023 
 
 ## Rust - February 2023 
-I've picked up Rust programming language because why not
+I've picked up Rust programming language, mostly because to deploying high perfomance application for trading purposes
 - [rustlings](https://github.com/bulaimaslo/rustlings)
 - [game-of-life](https://github.com/bulaimaslo/game-of-life)
 - [rusty-merkle-tree](https://github.com/bulaimaslo/rusty-merkle-tree)
