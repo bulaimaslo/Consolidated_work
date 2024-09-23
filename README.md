@@ -1,8 +1,55 @@
-# Consolidated-work
+# Consolidated work
+
+## CryptoWatcher -  Septermber 2024 - Present
+Currently developing an app that allows users to subscribe and receive notifications about blockchain events, such as:
+- token reaching a specified price
+- transactions of a particular blochchain user
+- high-value transactions
+- minting of new tokens
+- viewing statistics of a given blochchain address, trades and profitability
+
+[backend_cloud functions repo](https://github.com/bulaimaslo/crypto-watcher-functions)
+
+_Mobile: Swift, Swift UI,_ <br>
+_Backend: Firebase cloud funtions, Typescript, Google Cloud Firestore db_
+
+## Cookbook -  April - August 2024
+I developed a mobile app for organizing cooking recipes.
+The motivation was looking at how I used store recipes that is screenshots, random notes. <br>
+I created a designated service that extracts recipes data from most websites making it easy to import recipes.<br>
+
+[See it in action here](https://www.youtube.com/shorts/GZsPY9dp7_c)<br> 
+
+Successfully published it on the [Appstore](https://apps.apple.com/pl/app/cookbook-recipe-organizer/id6615062069), Currently with stunning 100+ downloads!<br> 
+<br>
+Learned about mobile development, ads & payments services integration, mobile ux/ui, App Store and Google Play Store submission flow & requirements <br>
+<br> 
+_Mobile: React Native, Typescript_ <br>
+_Backend: Vercel, Flask, Python, Firebase_
+
+## Text editor  -  April 2024
+I read some article about how text editors works and I wanted to try to implement some of the functionalities we use on daily basis but don't fully comprehend or appreciate. 
+- [text_editor](https://github.com/bulaimaslo/text_editor)
+- [rope_implementation](https://github.com/bulaimaslo/rope_implementation)
+
+_Python_
 
 
-## [Messaging app](https://github.com/bulaimaslo/messaging-app)  -  March 2023 - Currently
+## [Datastore](https://github.com/bulaimaslo/datastore)  -   March 2024
+During [Notesnook](https://www.notesnook.pl) development I encountered potential improvements trough caching.
+To explore this, I implemented my own Redis-like solution, learning about multi-client communication via TCP and some magic words like socket server, event loop.
+
+_Python_
+
+## [Notesnook](https://www.notesnook.pl)  -  November 2023 - March 2024
+Web app to create notes, teaching materials and share it with others.
+Learned many things not related to actual development like SEO optimizations, marketing, contacting teachers and finding out about their's specific needs.
+
+_Next.js, Typescript, Tailwind css, PostgreSQL_
+
+## [Messaging app](https://github.com/bulaimaslo/messaging-app)  -  March 2023
 Putting into practice my theoretical knowledge of backend engineering. 
+Unfortunately, it was abandoned as I shifted focus to learn skills relevant to my new job.
 
 ## [Personal website](https://github.com/bulaimaslo/bulaimaslo.github.io) - March 2023 
 
@@ -18,7 +65,6 @@ Utilizing OpenAI chat GPT to assist me in hard work of writing emails.
 
 ## [Crypto Arbitrage Bot](https://github.com/bulaimaslo/crypto-arb)  -  November 2022
 This project is a bot which is be able to find differences between prices of cryptocurrencies on different exchanges and execute trades on them. Using triangular arbitrage strategy to maximize gains. 
-
 
 ## [Online Tutoring](https://github.com/bulaimaslo/ChemApp)  -  August 2022
 Web app to organize video tutorials for high school students. It’s a place for a teacher to
