@@ -1,6 +1,6 @@
 # Consolidated work
 
-## CryptoWatcher -  Septermber 2024 - Present
+## CryptoWatcher -  September 2024 - Present
 Currently developing an app that allows users to subscribe and receive notifications about blockchain events, such as:
 - token reaching a specified price
 - transactions of a particular blochchain user
@@ -27,6 +27,11 @@ Learned about mobile development, ads & payments services integration, mobile ux
 _Mobile: React Native, Typescript_ <br>
 _Backend: Vercel, Flask, Python, Firebase_
 
+## [Ray tracing](https://github.com/bulaimaslo/ray_tracing/) -  June 2024
+This project is a Python implementation of the ray tracer described in the book [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html) by Peter Shirley.
+
+_Python_
+
 ## Text editor  -  April 2024
 I read some article about how text editors works and I wanted to try to implement some of the functionalities we use on daily basis but don't fully comprehend or appreciate. 
 - [text_editor](https://github.com/bulaimaslo/text_editor)
@@ -34,6 +39,11 @@ I read some article about how text editors works and I wanted to try to implemen
 
 _Python_
 
+## [Datastore](https://github.com/bulaimaslo/datastore)  -   March 2024
+During [Notesnook](https://www.notesnook.pl) development I encountered potential improvements trough caching.
+To explore this, I implemented my own Redis-like solution, learning about multi-client communication via TCP and some magic words like socket server, event loop.
+
+_Python_
 
 ## [Datastore](https://github.com/bulaimaslo/datastore)  -   March 2024
 During [Notesnook](https://www.notesnook.pl) development I encountered potential improvements trough caching.
