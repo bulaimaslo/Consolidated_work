@@ -1,14 +1,15 @@
 # Consolidated work
 
-## CryptoWatcher -  September 2024 - Present
-Currently developing an app that allows users to subscribe and receive notifications about blockchain events, such as:
+## Mobile apps vibecoding - December 2024 - Currently
+
+
+## CryptoWatcher -  September 2024
+I worked an app that allows users to subscribe and receive notifications about blockchain events, such as:
 - token reaching a specified price
 - transactions of a particular blochchain user
 - high-value transactions
 - minting of new tokens
-- viewing statistics of a given blochchain address, trades and profitability
-
-[backend_cloud functions repo](https://github.com/bulaimaslo/crypto-watcher-functions)
+- viewing statistics of a given blockchain address, trades and profitability
 
 _Mobile: Swift, Swift UI,_ <br>
 _Backend: Firebase cloud funtions, Typescript, Google Cloud Firestore db_
@@ -18,9 +19,6 @@ I developed a mobile app for organizing cooking recipes.
 The motivation was looking at how I used store recipes that is screenshots, random notes. <br>
 I created a designated service that extracts recipes data from most websites making it easy to import recipes.<br>
 
-[See it in action here](https://www.youtube.com/shorts/GZsPY9dp7_c)<br> 
-
-Successfully published it on the [Appstore](https://apps.apple.com/pl/app/cookbook-recipe-organizer/id6615062069), Currently with stunning 100+ downloads!<br> 
 <br>
 Learned about mobile development, ads & payments services integration, mobile ux/ui, App Store and Google Play Store submission flow & requirements <br>
 <br> 
